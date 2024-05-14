@@ -2,7 +2,7 @@ import "./List.css"
 const List = () => {
     return (
         <div>
-
+            list
         </div>
     );
 };
